@@ -1,0 +1,15 @@
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\bin\Debug\net8.0\Business.deps.json
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\bin\Debug\net8.0\Business.dll
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\bin\Debug\net8.0\Business.pdb
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\bin\Debug\net8.0\Entities.dll
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\bin\Debug\net8.0\Entities.pdb
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\obj\Debug\net8.0\Business.dll
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\obj\Debug\net8.0\refint\Business.dll
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\obj\Debug\net8.0\Business.pdb
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Business\obj\Debug\net8.0\ref\Business.dll

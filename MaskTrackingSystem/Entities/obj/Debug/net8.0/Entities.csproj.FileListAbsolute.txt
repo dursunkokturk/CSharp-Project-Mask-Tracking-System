@@ -1,0 +1,11 @@
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Entities\bin\Debug\net8.0\Entities.dll
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Entities\bin\Debug\net8.0\Entities.pdb
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Entities\obj\Debug\net8.0\Entities.dll
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Entities\obj\Debug\net8.0\Entities.pdb
+C:\C#-Software-Developer-Bootcamp-Kodlama.io-EnginDemirog-2024\Day-1\mask-tracking-system\MaskTrackingSystem\Entities\obj\Debug\net8.0\ref\Entities.dll
